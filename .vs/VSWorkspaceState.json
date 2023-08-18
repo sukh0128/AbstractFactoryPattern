@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\Materials",
+    "\\Assets\\Prefabs",
+    "\\Assets\\Scenes",
+    "\\Assets\\Scripts",
+    "\\Assets\\Scripts\\CarFactory",
+    "\\Logs",
+    "\\Packages",
+    "\\UserSettings"
+  ],
+  "SelectedNode": "\\Assets\\Scripts\\CarFactory\\BlueFactory.cs",
+  "PreviewInSolutionExplorer": false
+}
